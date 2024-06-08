@@ -4,5 +4,9 @@
 https://2024.berlinbuzzwords.de/sessions/?id=BQTZHK
 
 ## Slides
-(Coming soon)
+[Slides as a PDF](Monitoring%20your%20home%2C%20with%20DevOps%20observability%20tools.pdf)
+
+## Links
+ * [Steve L's talk from last year](https://program.berlinbuzzwords.de/berlin-buzzwords-2023/talk/WFLLCY/)
+ * [Home Assistant](https://www.home-assistant.io/)
 
